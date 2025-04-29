@@ -13,7 +13,7 @@
             "type": "bitmap",
             "file": "minecraft:gui/container/brewing_guide_right.png",
             "ascent": 27,
-            "height": 193,
+            "height": 189,
             "chars": [
                 "\ufff2"
             ]
