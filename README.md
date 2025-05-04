@@ -5,14 +5,17 @@ Minecraft Brewing Guide Resource Pack
 # Source Files
 #### Photoshop (PSD) Files
 Photoshop source files for modifying the recipes and effects shown within the Brewing Stand GUI.
+Linked PSB files are used within the main PSD to update all elements at once.
 ```py
-assets/
-└─ minecraft/
-   └─ textures/
-      └─ gui/
-         └─ container/
-            ├─ brewing_guide_left.psd
-            └─ brewing_guide_right.psd
+src/
+└─ brewing_guide.psd
+└─ linked/
+      ├─ effect_slot.psb
+      ├─ slot.psb
+      ├─ horizontal_arrow.psb
+      ├─ horizontal_join_flipped.psb
+      ├─ horizontal_join.psb
+      └─ horizontal_merge_2to1_arrow.psb
 ```
 #### Scripts
 These scripts are used to maintain the pack across various Minecraft versions by keeping all language files up-to-date with the current version.
