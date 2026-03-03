@@ -2,6 +2,15 @@
 Minecraft Brewing Guide Resource Pack
 ![Preview Image](./preview.png)
 
+> [!Tip]
+> ## Compact Edition
+> If your having issues where the UI doesn't fit on the screen, check out the newer version of this pack on the other branch:
+> 
+> [![Link to Branch](https://img.shields.io/badge/view%20branch-compact%20edition-rgb(63,185,80)?style=for-the-badge&logo=github)](https://github.com/PINPAL/Brewing-Guide/tree/compact-edition)
+> 
+> ![Compact Edition Preview Image](https://github.com/PINPAL/Brewing-Guide/blob/compact-edition/preview.png?raw=true)
+
+
 # Source Files
 #### Photoshop (PSD) Files
 Photoshop source files for modifying the recipes and effects shown within the Brewing Stand GUI.
