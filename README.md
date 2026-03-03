@@ -33,6 +33,4 @@ scripts/
 ```
 
 # Download
-To download the release of the pack, you can grab it from either source:
-- [CurseForge](https://legacy.curseforge.com/minecraft/texture-packs/in-game-brewing-guide)
-- [Modrinth](https://modrinth.com/resourcepack/in-game-brewing-guide)
+For comapct edition, you can grab the files directly from GitHub.
